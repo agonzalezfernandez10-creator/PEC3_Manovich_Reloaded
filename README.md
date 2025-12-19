@@ -7,51 +7,72 @@
 
 ---
 
+
 ## Introducción
 
-La evolución del software ha transformado profundamente la manera en que se producen, distribuyen y experimentan los contenidos digitales. Tal y como expone Lev Manovich en *El software toma el mando*, los medios ya no pueden entenderse como formas aisladas (fotografía, vídeo, texto, juego), sino como elementos híbridos que se reconfiguran constantemente a través de procesos algorítmicos, interfaces dinámicas y bases de datos. En este contexto, la hibridación se convierte en una de las características fundamentales de la cultura digital contemporánea.
+<div style="display:flex; align-items:flex-start;">
 
-La hibridación no implica simplemente la suma de medios distintos, sino su integración profunda dentro de un mismo sistema software, donde cada componente se transforma al interactuar con los demás. De este modo, las aplicaciones, plataformas y productos digitales actuales funcionan como ensamblajes complejos que combinan comunicación, visualización, interacción, narrativa, geolocalización, juego y análisis de datos en una misma experiencia de usuario.
+<div style="flex:1; text-align: justify; padding-right:10px;">
+<p>
+La <strong>hibridación digital</strong> es un fenómeno que nos permite observar cómo diferentes medios y técnicas de software se fusionan para crear experiencias integradas. Según <strong>Lev Manovich</strong>, los medios digitales ya no son formas aisladas, sino ensamblajes donde el software reconfigura la interacción entre datos, interfaces, narrativas y visualizaciones. En esta PEC se analizarán dos casos concretos de hibridación: la plataforma <strong>Strava</strong>, que integra deporte, redes sociales y análisis de datos, y la franquicia <strong>Invizimals</strong>, que combina <strong>videojuego</strong>, <strong>realidad aumentada</strong> y objetos físicos para generar una experiencia híbrida. El análisis se realizará desde la perspectiva de <strong>automatización</strong>, <strong>modularidad</strong> y la lógica de <strong>bases de datos</strong> que propone Manovich.
+</p>
+</div>
 
-El presente ensayo propone el análisis de dos casos contemporáneos de hibridación digital que no aparecen en la obra de Manovich, pero que podrían formar parte de una hipotética continuación de su estudio: la plataforma deportiva y social **Strava** y la franquicia transmedia de realidad aumentada **Invizimals**. Ambos ejemplos permiten observar cómo el software actúa como motor de transformación cultural, redefiniendo prácticas cotidianas como el deporte, el juego, la socialización y la relación entre el mundo físico y el entorno digital.
+<div>
+<img src="[https://github.com/agonzalezfernandez10-creator/PEC3_Manovich_Reloaded/blob/main/Manovich.webp" width="250" />
+</div>
 
-A través de “las gafas de Manovich”, se analizará cómo estas dos propuestas integran principios fundamentales del software como la automatización, la modularidad, la visualización de datos, la espacialización y la interacción, dando lugar a experiencias híbridas donde lo físico y lo digital, lo lúdico y lo funcional, lo individual y lo colectivo se entrelazan de forma inseparable.
-
+</div>
 
 ---
 
 ## Caso 1: Strava — Hibridación entre datos, social y deporte
 
 <p align="center">
-  <img src="https://github.com/agonzalezfernandez10-creator/PEC3_Manovich_Reloaded/blob/main/Strava.webp" width="800" />
+  <img src="https://github.com/agonzalezfernandez10-creator/PEC3_Manovich_Reloaded/blob/main/Strava.webp" width="700" />
 </p>
 
 <p align="center" style="font-size:12px; color:gray;">
-<em>Captura de Strava mostrando una actividad con mapas y estadísticas, ejemplificando la integración de datos y redes sociales.</em>
+<em>Captura de Strava mostrando una actividad con mapas, métricas y segmentos destacados, ejemplificando la integración de datos, visualización y redes sociales.</em>
 </p>
 
 <p align="justify">
-**Strava** es una plataforma digital que combina funcionalidades de **registro de actividad física, análisis de datos y red social**, configurándose como un ejemplo paradigmático de hibridación digital. Su software integra datos de sensores (GPS, tiempo, ritmo cardiaco), visualizaciones dinámicas (mapas, gráficas, segmentos), clasificación social (seguidores, retos, comparativas) y funciones de comunidad, creando una experiencia única donde el entrenamiento, la socialización y el análisis de datos convergen.
+<strong>Strava</strong> es una plataforma digital que combina funcionalidades de <strong>registro de actividad física</strong>, <strong>análisis de datos</strong> y <strong>red social</strong>, configurándose como un ejemplo paradigmático de <strong>hibridación digital</strong>. Su software permite a los usuarios registrar cada entrenamiento utilizando sensores como <strong>GPS</strong>, cronómetros de <strong>tiempo</strong>, monitores de <strong>ritmo cardiaco</strong> y potenciómetros, generando datos precisos sobre la <strong>distancia recorrida</strong>, <strong>velocidad</strong>, <strong>cadencia</strong> y <strong>elevación</strong>. Además, estos datos se presentan mediante <strong>visualizaciones dinámicas</strong>: mapas interactivos que muestran rutas, gráficas de rendimiento en tiempo real, comparativas de segmentos y estadísticas acumuladas, creando un ecosistema donde la información se convierte en experiencia. La plataforma también incorpora un fuerte componente <strong>social</strong>, permitiendo que los usuarios sigan a amigos, compartan actividades, participen en retos y comparen resultados, generando motivación y sentido de comunidad. Esta integración de métricas físicas y sociales convierte cada entrenamiento en un <strong>evento híbrido</strong>, donde la interacción digital se superpone a la actividad física real.
 
-Desde la perspectiva de Manovich, Strava no es simplemente una aplicación que muestra datos; es un medio híbrido donde diferentes lógicas mediáticas —la cuantificación digital, la visualización cartográfica, la narrativa personal de logros y el componente social— se combinan mediante técnicas de software que permiten reconfigurar prácticas individuales y colectivas. Por ejemplo, los mapas interactivos funcionan como representación visual de actividades físicas y al mismo tiempo como interfaz social, permitiendo comparar resultados en segmentos específicos y motivando la participación.
+Desde la perspectiva de <strong>Manovich</strong>, Strava ejemplifica la <strong>hibridación de medios digitales</strong>, ya que no solo presenta datos, sino que los convierte en interfaces interactivas que conectan diferentes tipos de lógicas mediáticas. La <strong>cuantificación digital</strong> del rendimiento físico se mezcla con la <strong>visualización cartográfica</strong> y la <strong>narrativa social de logros y competiciones</strong>, creando un medio donde el usuario es tanto protagonista como espectador de sus propias actividades y de las de su comunidad. Los mapas interactivos y los segmentos destacados funcionan como <strong>microhistorias digitales</strong>, donde cada kilómetro recorrido se transforma en narrativa visual y social, y la información numérica se convierte en experiencia estética y motivacional. 
 
-El software de Strava automatiza el análisis de métricas, modulariza los datos por actividad, segmento y comunidad, y permite que cada usuario construya su narrativa digital del entrenamiento. La fusión de componentes físicos (ejercicio) y digitales (datos, redes, gamificación) convierte cada registro en un ejemplo claro de hibridación de medios y de interacción humano-software.
+El software de Strava <strong>automatiza el análisis de métricas</strong>, <strong>modulariza la información</strong> por actividad, segmento y comunidad, y permite que cada usuario construya su <strong>narrativa personal</strong> a través de logros, récords y medallas virtuales. Esta modularidad, junto con la capacidad de compartir y comparar datos, refuerza la idea de software como un medio que genera nuevos formatos de interacción y comunicación. La fusión de elementos físicos —como el esfuerzo deportivo y el entorno natural— y digitales —como las métricas, los mapas y las redes sociales— evidencia cómo el software transforma un acto cotidiano en una experiencia mediática compleja. 
+
+Además, Strava permite la creación de <strong>retos colectivos y eventos virtuales</strong>, donde los datos de múltiples usuarios se combinan para generar rankings, competencias y análisis colectivos, aumentando la dimensión social del deporte individual. Esto evidencia una hibridación no solo entre medios, sino también entre prácticas: el entrenamiento se vuelve colaboración, la competencia se vuelve comunidad, y los datos cuantitativos se transforman en narrativas compartidas. La plataforma también se integra con otros dispositivos y aplicaciones, como relojes inteligentes, ciclocomputadores y servicios de análisis de rendimiento, reforzando la idea de <strong>ecosistema híbrido de medios y dispositivos</strong>. En suma, Strava representa un ejemplo claro de cómo el software puede <strong>reconfigurar actividades físicas tradicionales en experiencias híbridas digitales</strong>, donde la interacción, la socialización y la cuantificación se combinan para generar nuevos modos de participación, motivación y creatividad.
 </p>
 
-
 ---
-
 ## Caso 2: Invizimals — Hibridación entre juego, AR y transmedia
 
-<p align="justify">
-Invizimals es una franquicia que fusiona **videojuego, juguete físico, realidad aumentada (AR) y narrativa transmedia**, representando un caso avanzado de hibridación digital. Los jugadores interactúan con criaturas digitales integradas en el mundo real mediante AR, capturando, luchando y coleccionando personajes que se proyectan sobre superficies físicas con ayuda de cámaras y dispositivos. Esta integración permite que los objetos físicos y los entornos digitales se combinen en una experiencia lúdica coherente.
-
-Desde la óptica manovichiana, Invizimals demuestra cómo el software puede expandir la narrativa más allá de la pantalla tradicional. La realidad aumentada actúa como puente técnico y experiencial entre distintos medios: vídeo en tiempo real, modelos 3D, audio y objetos físicos interactivos. El diseño modular y la automatización de la interacción permiten que cada criatura, carta o escenario se integre en el sistema global de juego, generando una experiencia donde lo digital y lo físico se entrelazan.
-
-Invizimals también es un ejemplo de transmedia, pues extiende su narrativa a aplicaciones, colecciones físicas y productos multimedia, haciendo que la experiencia del usuario sea un ensamblaje híbrido donde la interacción, la participación y la gamificación se combinan en un ecosistema cohesionado.
+<p align="center">
+  <img src="https://github.com/agonzalezfernandez10-creator/PEC3_Manovich_Reloaded/blob/main/Invizimals.webp" width= 800" />
 </p>
 
----
+<p align="center" style="font-size:12px; color:gray;">
+<em>Imagen de Invizimals mostrando a dos criaturas digitales sobre un entorno real mediante realidad aumentada, ejemplificando la interacción híbrida entre lo físico y lo digital.</em>
+</p>
+
+<p align="justify">
+<strong>Invizimals</strong> es una franquicia de entretenimiento que combina <strong>videojuego</strong>, <strong>objetos físicos</strong>, <strong>realidad aumentada (AR)</strong> y <strong>narrativa transmedia</strong>, constituyendo un ejemplo paradigmático de <strong>hibridación digital avanzada</strong>. La experiencia de juego permite a los usuarios interactuar con criaturas digitales que aparecen en el espacio real a través de cámaras y dispositivos compatibles, capturarlas, entrenarlas y luchar con ellas. Cada criatura, carta o accesorio físico se integra en un ecosistema digital que transforma la experiencia de juego en un <strong>evento híbrido</strong>, donde el espacio físico y el virtual se superponen. Esta combinación de medios convierte la interacción en algo mucho más inmersivo que un videojuego tradicional, transformando la percepción de la realidad y el juego.
+
+Desde la perspectiva de <strong>Manovich</strong>, Invizimals ilustra cómo el software puede <strong>hibridar múltiples medios y prácticas</strong>, ya que mezcla visualización digital, objetos tangibles, interacción física y narrativa transmedia. La realidad aumentada funciona como un puente que conecta el mundo digital con el físico, creando experiencias donde la acción del jugador modifica tanto el entorno digital como el percibido en la vida real. Los objetos físicos, como cartas coleccionables o figuras, no son meros accesorios, sino elementos que interactúan con el software, generando retroalimentación y participación activa en la narrativa.
+
+El diseño <strong>modular</strong> del juego permite que cada componente (creatura, carta, escenario) se combine de manera flexible, lo que facilita actualizaciones, expansiones y nuevas formas de interacción. La automatización del software asegura que la experiencia sea coherente y dinámica, adaptándose al contexto del jugador y a la integración con otros dispositivos. La narrativa <strong>transmedia</strong> amplía la experiencia más allá de la consola o la pantalla, abarcando aplicaciones móviles, sitios web y contenido audiovisual, reforzando la sensación de mundo híbrido y conectado.
+
+Invizimals también incorpora elementos sociales, permitiendo que los jugadores compartan logros, participen en competiciones y comparen sus colecciones, de manera similar a la lógica de Strava, pero aplicada al ámbito del juego y la creatividad. Cada interacción entre lo físico y lo digital genera nuevas capas de información y participación, evidenciando cómo la <strong>hibridación</strong> transforma actividades tradicionales en experiencias complejas, inmersivas y compartidas.
+
+En suma, Invizimals representa un caso claro de cómo el software y la tecnología AR permiten <strong>reconfigurar el entretenimiento tradicional</strong>, integrando juego, narrativa, objetos físicos y redes sociales en un único ecosistema digital híbrido. La interacción, la participación activa y la capacidad de expansión constante muestran cómo la hibridación mediática redefine los límites entre realidad, ficción y medios digitales, proporcionando un ejemplo moderno y claro del concepto de Manovich aplicado a la cultura contemporánea.
+</p>
+
+## Consecuencias de la hibridación digital en Strava e Invizimals (enfoque Manovich)
+
+Las actividades tradicionales, como entrenar o jugar, se convierten en experiencias **mediadas por software**, transformando la manera en que los usuarios perciben su **actividad física** (Strava) o el **juego** (Invizimals), integrando datos, visualizaciones y narrativa en tiempo real. Ambos casos muestran cómo el software permite **modular los elementos de la experiencia**: segmentos, métricas, criaturas, cartas o escenarios, ofreciendo al usuario **control y flexibilidad**, fomentando la creación de **narrativas personales** y la adaptación de la experiencia a sus necesidades. La hibridación convierte acciones individuales en **fenómenos colectivos**, como los retos sociales en Strava o las competiciones/transmedia en Invizimals, generando **comunidades digitales** donde la interacción y el reconocimiento social son parte integral de la experiencia. Además, el software permite **procesar, almacenar y visualizar información compleja** automáticamente, liberando al usuario de tareas mecánicas y transformando los datos en conocimiento y narrativa, evidenciando cómo el software **reescribe los medios tradicionales**, haciendo que lo digital sea el motor de la experiencia. La combinación de elementos físicos (correr, entrenar, objetos del juego) y digitales (mapas, métricas, realidad aumentada) crea una **experiencia intermedia** que rompe la distinción clásica entre mundo real y digital, reforzando la idea manoviciana de que el software **reconfigura los medios y prácticas culturales**, generando nuevos formatos de interacción. Finalmente, cada usuario se convierte en **co-creador de contenido**, como los logs de actividad, rutas y logros (Strava) o colecciones, batallas y escenarios (Invizimals), estableciendo una **estética basada en datos, visualizaciones y gamificación**, un ejemplo claro de cómo el software impone nuevas formas narrativas y estéticas en la cultura digital.
+
 
 ## Referencias y bibliografía
 
