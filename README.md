@@ -21,14 +21,23 @@ A través de “las gafas de Manovich”, se analizará cómo estas dos propuest
 ---
 
 ## Caso 1: Strava — Hibridación entre datos, social y deporte
-![Logo Strava](https://github.com/agonzalezfernandez10-creator/PEC3_Manovich_Reloaded/blob/main/Strava.webp)
+
+<p align="center">
+  <img src="https://github.com/agonzalezfernandez10-creator/PEC3_Manovich_Reloaded/blob/main/Strava.webp" width="800" />
+</p>
+
+<p align="center" style="font-size:12px; color:gray;">
+<em>Captura de Strava mostrando una actividad con mapas y estadísticas, ejemplificando la integración de datos y redes sociales.</em>
+</p>
+
 <p align="justify">
-Strava es una plataforma digital que combina funcionalidades de **registro de actividad física, análisis de datos y red social**, configurándose como un ejemplo paradigmático de hibridación digital. Su software integra datos de sensores (GPS, tiempo, ritmo cardiaco), visualizaciones dinámicas (mapas, gráficas, segmentos), clasificación social (seguidores, retos, comparativas) y funciones de comunidad, creando una experiencia única donde el entrenamiento, la socialización y el análisis de datos convergen.
+**Strava** es una plataforma digital que combina funcionalidades de **registro de actividad física, análisis de datos y red social**, configurándose como un ejemplo paradigmático de hibridación digital. Su software integra datos de sensores (GPS, tiempo, ritmo cardiaco), visualizaciones dinámicas (mapas, gráficas, segmentos), clasificación social (seguidores, retos, comparativas) y funciones de comunidad, creando una experiencia única donde el entrenamiento, la socialización y el análisis de datos convergen.
 
 Desde la perspectiva de Manovich, Strava no es simplemente una aplicación que muestra datos; es un medio híbrido donde diferentes lógicas mediáticas —la cuantificación digital, la visualización cartográfica, la narrativa personal de logros y el componente social— se combinan mediante técnicas de software que permiten reconfigurar prácticas individuales y colectivas. Por ejemplo, los mapas interactivos funcionan como representación visual de actividades físicas y al mismo tiempo como interfaz social, permitiendo comparar resultados en segmentos específicos y motivando la participación.
 
 El software de Strava automatiza el análisis de métricas, modulariza los datos por actividad, segmento y comunidad, y permite que cada usuario construya su narrativa digital del entrenamiento. La fusión de componentes físicos (ejercicio) y digitales (datos, redes, gamificación) convierte cada registro en un ejemplo claro de hibridación de medios y de interacción humano-software.
 </p>
+
 
 ---
 
