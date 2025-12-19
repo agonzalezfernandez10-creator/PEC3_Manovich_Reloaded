@@ -21,7 +21,7 @@ A través de “las gafas de Manovich”, se analizará cómo estas dos propuest
 ---
 
 ## Caso 1: Strava — Hibridación entre datos, social y deporte
-
+![Logo Strava](https://github.com/agonzalezfernandez10-creator/PEC3_Manovich_Reloaded/blob/main/Strava.webp)
 <p align="justify">
 Strava es una plataforma digital que combina funcionalidades de **registro de actividad física, análisis de datos y red social**, configurándose como un ejemplo paradigmático de hibridación digital. Su software integra datos de sensores (GPS, tiempo, ritmo cardiaco), visualizaciones dinámicas (mapas, gráficas, segmentos), clasificación social (seguidores, retos, comparativas) y funciones de comunidad, creando una experiencia única donde el entrenamiento, la socialización y el análisis de datos convergen.
 
