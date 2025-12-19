@@ -8,12 +8,9 @@
 ---
 
 ## Introducción y imagen de Manovich
-
-| Introducción de los temas | Imagen |
-|---------------------------|--------|
-| <p align="justify">
+ <p align="justify">
 La hibridación digital es un fenómeno que nos permite observar cómo diferentes medios y técnicas de software se fusionan para crear experiencias integradas. Según Lev Manovich, los medios digitales ya no son formas aisladas, sino ensamblajes donde el software reconfigura la interacción entre datos, interfaces, narrativas y visualizaciones. En esta PEC se analizarán dos casos concretos de hibridación: la plataforma **Strava**, que integra deporte, redes sociales y análisis de datos, y la franquicia **Invizimals**, que combina videojuego, realidad aumentada y objetos físicos para generar una experiencia híbrida. El análisis se realizará desde la perspectiva de automatización, modularidad y la lógica de bases de datos que propone Manovich.
-</p> | <img src="img/manovich.jpg" width="250" /> |
+</p> | <img/> |
 
 ---
 
